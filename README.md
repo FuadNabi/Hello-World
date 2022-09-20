@@ -12,13 +12,13 @@
 ### Setup
 If you want to try this application locally, follow the steps below:
 
-1. Clone the project using git clone https://github.com/FuadNabi/Krunch-clone command.
+1. Clone the project using git clone `https://github.com/FuadNabi/Krunch-clone command`.
 
-2. Run cd Bookstore.
+2. Run `cd Bookstore`.
 
-3. Run npm install.
+3. Run `npm install`.
 
-4. Run npm start.
+4. Run `npm start`.
 
 
 
